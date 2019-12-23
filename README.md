@@ -4,10 +4,9 @@ Facial key-points detection project (called also facial landmarks) is a system t
 
 
 
- <img align="left" width="600" height="200" src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png">
+ <img align="center"  src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png">
 
 
-![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png)
 
 
 ## Methodology:
@@ -37,9 +36,17 @@ The dataset that is used for training CNN model on has been extracted from the Y
 
 It’s including CSV file that has the 68 points as (x,y). so it’s 136 value and image name features for each image of the dataset.
 
+
+
+
 **The positions of magenta dots**
 
-![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/key-points.jpeg)
+
+
+ <img align="center" width="600" height="600" src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/key-points.png">
+
+
+
 
 
 
