@@ -6,8 +6,7 @@ Facial key-points detection project (called also facial landmarks) is a system t
 
 First all the faces in an image are detected by using a predefined face detector which is Haar Cascade detector. Then by using CNN (Convolutional Neural Network), the detected faces are fed to model after preprocessing it by following steps:
 
-• Normalizing: to convert a color image to grayscale values with a range of [0,1] and
-normalize the key-points to be in a range of about [-1, 1].
+• Normalizing: to convert a color image to grayscale values with a range of [0,1] and normalize the key-points to be in a range of about [-1, 1].
 • Rescaling: to rescale an image to a desired size 224*224 pixels.
 • Cropping: to crop an image such that to pass a square image to CNN.
 
