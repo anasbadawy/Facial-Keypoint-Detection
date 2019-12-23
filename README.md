@@ -2,6 +2,11 @@
 Facial key-points detection project (called also facial landmarks) is a system that is based on deep learning and computer vision techniques. It is actually able to allocate eyes, nose, and mouth positions on human faces after cropping the face location. By using a small magenta dots shown on detected faces. It is 68 key-points.
 
 
+
+
+ <img align="left" width="600" height="200" src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png">
+
+
 ![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png)
 
 
