@@ -1,7 +1,3 @@
-# Facial-Keypoint-Detection
-Detecting facial key-points (eyes, nose, mouth, etc) using CNN &amp; OPENCV 
-
-
 ## Project Description:
 Facial key-points detection project (called also facial landmarks) is a system that is based on deep learning and computer vision techniques. It is actually able to allocate eyes, nose, and mouth positions on human faces after cropping the face location. By using a small magenta dots shown on detected faces. It is 68 key-points.
 
