@@ -3,9 +3,15 @@ Facial key-points detection project (called also facial landmarks) is a system t
 
 
 
+
+
+
+
 <p align="center">
- <img align="center"  src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png">
+ <img src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png">
 </p>
+
+
 
 
 
@@ -42,8 +48,9 @@ It’s including CSV file that has the 68 points as (x,y). so it’s 136 value a
 **The positions of magenta dots**
 
 
+
 <p align="center">
- <img align="center" width="600" height="600" src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/key-points.jpeg">
+ <img  width="350" height="350" src="https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/key-points.jpeg">
 </p>
 
 
