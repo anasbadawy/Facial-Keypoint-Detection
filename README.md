@@ -2,6 +2,8 @@
 Facial key-points detection project (called also facial landmarks) is a system that is based on deep learning and computer vision techniques. It is actually able to allocate eyes, nose, and mouth positions on human faces after cropping the face location. By using a small magenta dots shown on detected faces. It is 68 key-points.
 
 
+![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png)
+
 
 ## Methodology:
 
@@ -15,11 +17,10 @@ Then CNN model passing the image through multiple type of layers (Convolution la
 
 
 
-CNN Architecture:
+## CNN Architecture:
 - Four Convolutional layers.
 - Max-pooling layers.
 - Three Fully-connected layers.
-
 
 
 ## Dataset:
@@ -31,3 +32,13 @@ The dataset that is used for training CNN model on has been extracted from the Y
 
 It’s including CSV file that has the 68 points as (x,y). so it’s 136 value and image name features for each image of the dataset.
 
+**The positions of magenta dots**
+
+![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png)
+
+
+
+
+
+## References:
+https://arxiv.org/pdf/1710.00977.pdf
