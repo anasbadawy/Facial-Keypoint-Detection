@@ -34,7 +34,7 @@ It’s including CSV file that has the 68 points as (x,y). so it’s 136 value a
 
 **The positions of magenta dots**
 
-![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/test.png)
+![magenta dots](https://github.com/anasbadawy/Facial-Keypoint-Detection/blob/master/key-points.jpeg)
 
 
 
